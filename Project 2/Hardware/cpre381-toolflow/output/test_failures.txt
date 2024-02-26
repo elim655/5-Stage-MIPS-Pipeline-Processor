@@ -1,0 +1,7 @@
+proj/base/movn_3.s
+proj/base/movn_5.s
+proj/base/movn_6.s
+proj/base/movn_8.s
+proj/base/repl.qb_0.s
+proj/base/repl.qb_1.s
+proj/base/repl.qb_2.s
