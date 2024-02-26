@@ -1,0 +1,10 @@
+
+Exception caught at 2023-11-29 12:35:49.630888:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/lib64/python3.6/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
