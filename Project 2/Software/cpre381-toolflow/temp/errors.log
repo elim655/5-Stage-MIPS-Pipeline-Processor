@@ -1,0 +1,110 @@
+
+Exception caught at 2023-11-09 12:52:54.894693:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 12:53:52.734399:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 12:55:40.867330:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 12:56:59.304790:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:02:28.721847:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:05:58.170124:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:07:21.266128:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:08:37.682289:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/local/mentor/calibre/pkgs/icv_python/asp/lib/python3.8/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:32:41.676822:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/lib64/python3.6/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:35:39.137700:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/lib64/python3.6/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+
+Exception caught at 2023-11-09 13:38:27.605553:
+Traceback (most recent call last):
+  File "internal/snthpy/synthesis.py", line 89, in <module>
+    main(args)
+  File "internal/snthpy/synthesis.py", line 38, in main
+    if not os.path.isdir(quartus_path):
+  File "/usr/lib64/python3.6/genericpath.py", line 42, in isdir
+    st = os.stat(s)
+TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType
